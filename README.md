@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chethina 😊
+# 👋 Hi, I'm Chethina 👾
 
 Computer Science Undergraduate | UOW | IIT | Aspiring Database Engineer | Passionate About AI & Data Systems
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -27,9 +27,8 @@ Computer Science Undergraduate | UOW | IIT | Aspiring Database Engineer | Passio
 
 ## 📊 GitHub Stats
 
-| Stats | Streak | Languages |
-|-------|--------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Chethi2003&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chethi2003&theme=tokyonight) | ![Langs](https://github.com/Chethi2003/sampleproj/api/top-langs/?username=Chethi2003&layout=compact&theme=tokyonight) |
+
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chethi2003&theme=tokyonight) | 
 
 ---
 
