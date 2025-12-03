@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chethan 😊
+# 👋 Hi, I'm Chethina 😊
 
 Computer Science Undergraduate | UOW | IIT | Aspiring Database Engineer | Passionate About AI & Data Systems
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
