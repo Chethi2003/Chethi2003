@@ -25,13 +25,6 @@ Computer Science Undergraduate | UOW | IIT | Aspiring Database Engineer | Passio
 
 ---
 
-## 📊 GitHub Stats
-
-
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chethi2003&theme=tokyonight) | 
-
----
-
 ## 🌐 Connect With Me
 
 📧 kovida.fernando@gmail.com  
